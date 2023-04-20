@@ -10,7 +10,7 @@ server.use(cors("*"))
 server.use(jsonServer.bodyParser)
 server.use(middlewares)
 server.use(router)
-
+//this is needed
 const PORT = 3000
 
 server.listen(PORT, () => {
