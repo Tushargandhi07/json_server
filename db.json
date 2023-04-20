@@ -10,5 +10,12 @@
             "description": "Repellat tenetur voluptatum. Commodi tenetur ullam maiores dicta deleniti cupiditate incidunt facere ad. Debitis adipisci eaque. Eaque nobis quod dolores porro deserunt temporibus consequatur. Repellat laborum repellendus distinctio vel odio asperiores beatae.",
             "breed": "Selkirk Rex"
         }
+    ],
+    "posts":[
+        {
+            "id":1,
+            "name":"abc"
+
+        }
     ]
 }
