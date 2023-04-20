@@ -1,48 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "id": 2,
-      "title": "test",
-      "author": "typicode"
-    }
-  ],
-  "tushar": [
-    {
-      "id": 1
-    },
-    {
-      "id": 2,
-      "title": "test",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "users": [
-    {
-      "id": 1,
-      "name": "xyz",
-      "email": "xyz@gmail.com",
-      "password": "xyz"
-    },
-    {
-      "id": 2,
-      "name": "abc",
-      "email": "abc@gmail.com",
-      "password": "abc"
-    }
-  ]
+    "users": [
+        {
+            "id": 3,
+            "name": "Hiram",
+            "cost": 12.35,
+            "likes": 226,
+            "image": "/images/cat/cat-unsplash-3.jpg",
+            "thumb": "/images/cat/cat-unsplash-3-thumb.jpg",
+            "description": "Repellat tenetur voluptatum. Commodi tenetur ullam maiores dicta deleniti cupiditate incidunt facere ad. Debitis adipisci eaque. Eaque nobis quod dolores porro deserunt temporibus consequatur. Repellat laborum repellendus distinctio vel odio asperiores beatae.",
+            "breed": "Selkirk Rex"
+        }
+    ]
 }
