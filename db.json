@@ -31,12 +31,18 @@
   "profile": {
     "name": "typicode"
   },
-  "users":[
+  "users": [
     {
       "id": 1,
       "name": "xyz",
       "email": "xyz@gmail.com",
       "password": "xyz"
+    },
+    {
+      "id": 2,
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc"
     }
   ]
 }
