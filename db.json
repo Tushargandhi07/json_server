@@ -1,21 +1,18 @@
 {
-    "users": [
-        {
-            "id": 3,
-            "name": "Hiram",
-            "cost": 12.35,
-            "likes": 226,
-            "image": "/images/cat/cat-unsplash-3.jpg",
-            "thumb": "/images/cat/cat-unsplash-3-thumb.jpg",
-            "description": "Repellat tenetur voluptatum. Commodi tenetur ullam maiores dicta deleniti cupiditate incidunt facere ad. Debitis adipisci eaque. Eaque nobis quod dolores porro deserunt temporibus consequatur. Repellat laborum repellendus distinctio vel odio asperiores beatae.",
-            "breed": "Selkirk Rex"
-        }
-    ],
-    "posts":[
-        {
-            "id":1,
-            "name":"abc"
-
-        }
-    ]
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ]
 }
